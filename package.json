@@ -1,0 +1,16 @@
+{
+	"name": "devconnector",
+	"version": "0.0.1",
+	"private": true,
+	"description": "A social network for developers built using the MERN stack",
+	"main": "server.js",
+	"scripts": {
+		"dev": "nodemon server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/brehar/devconnector.git"
+	},
+	"author": "Brett Hartman <brehardev@gmail.com> (http://bretthartman.me)",
+	"license": "MIT"
+}
